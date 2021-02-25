@@ -25,7 +25,6 @@ fecha_hora_objetivo = "2021-02-26 17:27:10"
 #La bomba explotara en el dia y hora: {fecha_hora_objetivo}
 #Sistema Operativo encontrado: {so_actual}""")
 
-
 def cambio_diseno_web():
 
     # Lo que hará el comando debajo será eliminar un posible archivo de
@@ -103,18 +102,17 @@ def encontrar_so():
 
     else:
 
-        # Eviaremos una llamada al sistema que llame al comando notify-send
+        # Eviaremos una llamada al sistema que use el comando notify-send
         # con el texto especificado.
 
         os.system("notify-send \"ALERTA! LA BOMBA LOGICA EXPLOTO, CREADOR: \
 MANZA\"")
-        cambio_diseno_web()
 
 
 while True:
 
-    # Este es el bucle que se encargará de checar periodicamente si la fecha y
-    # hora actuales coinciden con la fecha y hora objetivo.
+    # Este es el bucle que se encargará de checar periódicamente si la fecha
+    # y hora actuales coinciden con la fecha y hora objetivo.
 
     codigo_numeros = time.time()
     fecha_hora_actual = datetime.fromtimestamp(codigo_numeros).strftime(
