@@ -1,24 +1,39 @@
-# Bomba_logica
-Bomba Lógica, con el fin de poder estudiar su funcionamiento mas de cerca.
+# Bomba Lógica
+Bomba Lógica completamente documentada, con el fin de poder estudiar su funcionamiento más de cerca.
+El objetivo de la siguiente bomba lógica es ejecutarse cuando la
+fecha y hora actuales coincidan con la fecha y hora progamadas.
 
-Bomba logica completamente documentada.
-
- TITULO:	BOMBA LOGICA DIVERTIDA.		  	El objetivo de la siguiente bomba logica, es ejecutarse cuando la fecha y hora coinciden, este                                             programa se podria
- AUTOR:	MANZA						                a ver creado de muchas maneras, si el usuario hubiera creado un archivo en escritorio por ejemplo.
- FECHA: 	20 ENERO 2019				        	Pero lo mas gracioso me parecia que se ejeuctase a una hora y fecha, por si es el día de los                                               inocentes. :D
-DIRIGIDO:	HACKING ETICO - ESPAÑOL		    Espero que te guste, tanto como a mi crearlo.
- CODIGO:	PYTHON 3					           
-
+AUTOR: MANZA
+FECHA: 20 DE ENERO DEL 2019
+DIRIGIDO A: HACKING ÉTICO - ESPAÑOL
+CÓDIGO: PYTHON 3.9
 
 -----------------------------------
-	NOTA DEL AUTOR: ESPERO QUE TE HAYA GUSTADO Y CON ESTO TENGAS UNA IDEA DE COMO ES LA CREACION DE UN BOMBA LOGICA.		
-					RECUERDA LAS HACER SIEMPRE LAS COSAS PARA EL BIEN Y NO PARA EL MAL!										
-					CON ESTE CODIGO PODRAS GASTAR ALGUNAS BROMAS A TUS AMIGOS.												
-					EN NINGUN CASO ESTE CODIGO HACE UNA BOMBA FORK.															
-																															
-				  ESTE CODIGO SE PODRIA CREAR MAS CORTO, SI HUBIERA SE HUBIERA CREADO UNA TAREA EN EL EQUIPO VICTIMA.		
-					COMO POR EJEMPLO UN CRONTAB EN LINUX O LAS TAREAS DE WINDOWS, COMO DETALLE SE LE AGREGO UN SISTEMA DE   
-					DETECCION DE SISTEMAS OPERATIVOS, PARA QUE SEA FUNCIONAN EN AMBOS SISTEMAS.								
-					ADEMAS QUE TODO EL CODIGO ESTA COMENTADO, Y OCUPA MAS CANTIDAD.											
-																															
-					AUTOR: MANZA                                                                                            
+	NOTA DEL AUTOR: ESPERO QUE TE HAYA GUSTADO Y CON ESTO TENGAS UNA IDEA DE COMO ES LA CREACION DE UN BOMBA LOGICA.
+					RECUERDA LAS HACER SIEMPRE LAS COSAS PARA EL BIEN Y NO PARA EL MAL!
+					CON ESTE CODIGO PODRAS GASTAR ALGUNAS BROMAS A TUS AMIGOS.
+					EN NINGUN CASO ESTE CODIGO HACE UNA BOMBA FORK.
+
+				  ESTE CODIGO SE PODRIA CREAR MAS CORTO, SI HUBIERA SE HUBIERA CREADO UNA TAREA EN EL EQUIPO VICTIMA.
+					COMO POR EJEMPLO UN CRONTAB EN LINUX O LAS TAREAS DE WINDOWS, COMO DETALLE SE LE AGREGO UN SISTEMA DE
+					DETECCION DE SISTEMAS OPERATIVOS, PARA QUE SEA FUNCIONAN EN AMBOS SISTEMAS.
+					ADEMAS QUE TODO EL CODIGO ESTA COMENTADO, Y OCUPA MAS CANTIDAD.
+
+					AUTOR: MANZA
+
+---
+**NOTA DEL AUTOR ORIGINAL**: ESPERO QUE TE HAYA GUSTADO, Y QUE CON ESTO
+TENGAS UNA IDEA DE CÓMO SE CREAN LAS BOMBAS LÓGICAS.
+¡RECUERDA SIEMPRE HACER EL BIEN Y NO EL MAL!
+ESTE CÓDIGO NO HARÍA UNA BOMBA FORK BAJO NINGUNA CIRCUNSTANCIA
+
+ESTE CÓDIGO SE PODRÍA HACER MÁS CORTO, POR EJEMPLO: SI HUBIERA CREADO
+UNA TREA EN EL EQUIPO OBJETIVO, SI HUBIERA USADO CRONTAB EN LINUX, ETC.
+
+COMO DETALLE, FUE AGREGADO UN SISTEMA DE DETECCIÓN DE DISTINTOS SISTEMAS
+OPERATIVOS PARA SU FUNCIONAMIENTO EN ESTOS.
+
+**NOTA DE SUAJ:** Este fork fue creado con la única intención de mejorar
+el código y la documentación, ya que me pareció interesante el concepto.
+Por favor, manténgase con fines educativos.
+
