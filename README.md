@@ -1,12 +1,14 @@
 # Bomba Lógica
-Bomba Lógica completamente documentada, con el fin de poder estudiar su funcionamiento más de cerca.
+Bomba Lógica completamente documentada, con el fin de poder estudiar su
+funcionamiento más de cerca.
+
 El objetivo de la siguiente bomba lógica es ejecutarse cuando la
 fecha y hora actuales coincidan con la fecha y hora progamadas.
 
-AUTOR: MANZA
-FECHA: 20 DE ENERO DEL 2019
-DIRIGIDO A: HACKING ÉTICO - ESPAÑOL
-CÓDIGO: PYTHON 3.9
+**AUTOR:** MANZA
+**FECHA:** 20 DE ENERO DEL 2019
+**PARA:** HACKING ÉTICO - ESPAÑOL
+**CÓDIGO:** PYTHON 3.9
 
 ---
 **NOTA DEL AUTOR ORIGINAL**: ESPERO QUE TE HAYA GUSTADO, Y QUE CON ESTO
